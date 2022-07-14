@@ -1,1 +1,1 @@
-# Brain-Tumor-Segmentation-Model
+# Brain-Tumor-Detection-Segmentation-Model
